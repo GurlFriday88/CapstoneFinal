@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapstoneFinal", "CapstoneFi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapstoneData", "CapstoneData\CapstoneData.csproj", "{CE466730-19E6-4A10-84A6-B5DCF66C72A7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapstoneServices", "CapstoneServices\CapstoneServices.csproj", "{0D52A16E-1D7E-42C5-A9A5-31F039842E98}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{CE466730-19E6-4A10-84A6-B5DCF66C72A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CE466730-19E6-4A10-84A6-B5DCF66C72A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CE466730-19E6-4A10-84A6-B5DCF66C72A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D52A16E-1D7E-42C5-A9A5-31F039842E98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D52A16E-1D7E-42C5-A9A5-31F039842E98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D52A16E-1D7E-42C5-A9A5-31F039842E98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D52A16E-1D7E-42C5-A9A5-31F039842E98}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

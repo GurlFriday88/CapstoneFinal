@@ -5,19 +5,28 @@ using System.Text;
 
 namespace CapstoneData.Models
 {
-    public class Prefix
+    public class Contact
     {
 
         public int ID { get; set; }
 
         [Required]
-        public string Name { get; set; }
+        public string Location { get; set; }
 
-        public virtual Provider Provider { get; set; }
+        [Required]
+        public string Address { get; set; }
+
+        [Required]
+        public string PhoneNumber { get; set; }
+
+       
+       
+
+
+
 
 
 
 
     }
 }
-
